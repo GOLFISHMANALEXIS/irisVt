@@ -642,10 +642,10 @@ body {
 
 .loader-line-wrap {
   -webkit-animation: 
-  spin 2000ms cubic-bezier(.175, .885, .32, 1.275) infinite
+  spin 5000ms cubic-bezier(.175, .885, .32, 1.275) infinite
 ;
           animation: 
-  spin 2000ms cubic-bezier(.175, .885, .32, 1.275) infinite
+  spin 5000ms cubic-bezier(.175, .885, .32, 1.275) infinite
 ;
   box-sizing: border-box;
   height: 50px;
